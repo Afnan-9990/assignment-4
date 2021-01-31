@@ -122,3 +122,17 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+#login-area{
+    display: none;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    background-color: white;
+}
+.confirmBtn{
+    background-color: rgb(22, 175, 22);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
